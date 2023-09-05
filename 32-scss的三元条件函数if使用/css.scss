@@ -1,0 +1,6 @@
+$theme: 'dark';
+
+.container {
+  background-color: if($theme == 'dark', black, write);
+}
+

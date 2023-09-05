@@ -1,0 +1,8 @@
+.container {
+  content: "foobar";
+  content: foobar;
+  content: foobar;
+  content: "foo" +"bar";
+}
+
+/*# sourceMappingURL=css.css.map */

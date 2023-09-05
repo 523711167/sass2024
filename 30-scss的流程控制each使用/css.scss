@@ -1,0 +1,17 @@
+p {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  margin: 10px;
+}
+$color-list: red green blue turquoise darkmagenta;
+//@each遍历list
+@each $color in $color-list {
+  //index内置函数
+  $index: index($color-list, $color);
+  .p#{$index - 1} {
+    background-color: $color;
+  }
+}
+
+

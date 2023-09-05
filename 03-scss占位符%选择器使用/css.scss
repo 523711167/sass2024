@@ -1,0 +1,11 @@
+.button%base {
+  display: inline-block;
+  margin-bottom: 0;
+  text-align: center;
+}
+.btn-default {
+  @extend %base;
+  color: #333;
+  background-color: #fff;
+  border-color: red;
+}

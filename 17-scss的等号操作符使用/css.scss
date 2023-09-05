@@ -1,0 +1,17 @@
+$theme: "red";
+
+.container {
+  @if $theme == "red" {
+    background-color: red;
+  }
+  @else {
+    background-color: blue;
+  }
+
+  @if $theme != "red" {
+    font-size: 18px;
+  }
+  @else {
+    font-size: 30px;
+  }
+}

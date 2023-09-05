@@ -1,0 +1,6 @@
+.container {
+  content: "foo" + bar;
+  content: foo + "bar";
+  content: foo + bar;
+  content: "foo" (+"bar");
+}

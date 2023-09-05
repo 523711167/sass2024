@@ -1,0 +1,7 @@
+@import "css/about.css";
+@import "common/common.scss";
+
+body {
+  font-size: $font-size;
+  @include bgColor(#FFF);
+}

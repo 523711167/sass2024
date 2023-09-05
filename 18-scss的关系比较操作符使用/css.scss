@@ -1,0 +1,10 @@
+// > < >= <=
+$theme: 3;
+.container {
+  @if $theme >= 5 {
+    background-color: red;
+  }
+  @else {
+    background-color: blue;
+  }
+}

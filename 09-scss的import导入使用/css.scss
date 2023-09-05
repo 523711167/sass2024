@@ -1,0 +1,6 @@
+//通过_var命名可以解决var.scss被编译为css文件
+@import "var";
+
+.container {
+  font-size: $font-size-var;
+}

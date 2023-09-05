@@ -1,0 +1,10 @@
+//从其他Sass样式表加载mixin，funcion和变量，并将来自多个样式表的CSS组合在一起，@use加载的样式表被称为"模块"，多次引入只包含一次。
+//@use也可以看作是对@import的增强
+
+@use "css/about.css";
+@use "common/common.scss";
+
+body {
+  font-size: common.$font-size;
+  @include common.bgColor();
+}

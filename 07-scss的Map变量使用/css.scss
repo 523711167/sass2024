@@ -1,0 +1,9 @@
+//map类型
+$border-map: (key1: 100px, key2: 200px);
+
+.container {
+  .header {
+    //不存在key，忽略值
+    width: map-get($border-map, 'key1');
+  }
+}

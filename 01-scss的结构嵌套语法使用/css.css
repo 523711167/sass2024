@@ -1,0 +1,20 @@
+.container {
+  width: 1200px;
+}
+.container .header {
+  height: 90px;
+}
+.container .header .logo {
+  width: 100px;
+  height: 60px;
+}
+.container .center {
+  height: 500px;
+  background-color: #FF0000;
+}
+.container .footer {
+  font-size: 16px;
+  text-align: center;
+}
+
+/*# sourceMappingURL=css.css.map */

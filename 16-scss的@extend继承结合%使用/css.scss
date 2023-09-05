@@ -1,0 +1,21 @@
+//在单独使用继承编译CSS会出现多编译.alert类，使用%占位符号解决
+%alert {
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+%important {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.alert-danger {
+  @extend %alert;
+  @extend %important;
+  color: #a94442;
+  background-color: #f2dede;
+  border-color: #ebccd1;
+}

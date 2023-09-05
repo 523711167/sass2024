@@ -1,0 +1,4 @@
+//show单独只转发$back-ground-color-model变量
+//g-*暴露属性添加别名
+@forward "global/css" as g-* show $g-back-ground-color-model;
+@forward "commons/css";

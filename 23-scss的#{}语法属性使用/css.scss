@@ -1,0 +1,6 @@
+$font-size: 18px;
+$font-height: 30px;
+.container {
+  //同时设置字体大小和行高
+  font: #{$font-size}/#{$font-height} Helvetica;
+}

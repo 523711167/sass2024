@@ -1,0 +1,33 @@
+//1.定义全局变量
+$color: red;
+$border-color: blue;
+//-等同与_，编译规则从上至下，后者覆盖前者
+$border-width: 12px;
+$border_width: 13px;
+//设置默认值，不会覆盖前者
+$border_width: 14px !default;
+//list类型
+$border-padding: 60px 70px 80px 90px;
+//map类型
+$border-map: (key1: 100px, key2: 200px);
+
+.container {
+  background-color: $color;
+  border-color: $border-color;
+  border-width: $border-width;
+  .header {
+    //2.定义局部变量
+    //使用$color: pink !global提升变量为全局变量;
+    $color: pink;
+    background-color: $color;
+  }
+}
+
+//变量支持类型
+//1 数字类型 1 10px 30%
+//2 字符串类型 'footer'
+//3 颜色类型 blue rgba #000000
+//4 布尔类型 true false
+//5 空值 null
+//6 数组类型 1 2 3 4 1,2,3,4 使用空格或者,分割
+//7 maps类型 (key:value, key:value)

@@ -1,0 +1,9 @@
+@mixin warning-text {
+  font-size: 20px;
+  color: blue;
+  line-height: 200%;
+}
+
+.container {
+  @include warning-text
+}

@@ -1,0 +1,10 @@
+$theme: 'dark';
+.container {
+  @if $theme == 'light' {
+    background-color: white;
+  } @else if $theme == 'red' {
+    background-color: red;
+  } @else {
+    background-color: darkkhaki;
+  }
+}

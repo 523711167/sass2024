@@ -1,0 +1,18 @@
+.container {
+  width: 1200px;
+  .header {
+    height: 90px;
+    .logo {
+      width: 100px;
+      height: 60px;
+    }
+  }
+  .center {
+    height: 500px;
+    background-color: #FF0000;
+  }
+  .footer {
+    font-size: 16px;
+    text-align: center;
+  }
+}

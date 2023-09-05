@@ -1,0 +1,13 @@
+.button.btn-default {
+  display: inline-block;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.btn-default {
+  color: #333;
+  background-color: #fff;
+  border-color: red;
+}
+
+/*# sourceMappingURL=css.css.map */

@@ -1,0 +1,10 @@
+$back-ground-color-model: true;
+
+.container {
+  @if $back-ground-color-model {
+    background-color: #fff;
+  }
+  @else {
+    background-color: red;
+  }
+}

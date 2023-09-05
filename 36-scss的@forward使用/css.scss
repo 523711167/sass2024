@@ -1,0 +1,8 @@
+@use "all";
+
+.container {
+  height: 999px;
+  width: 999px;
+  font-size: all.$font-size;
+  background-color: all.$g-back-ground-color-model;
+}

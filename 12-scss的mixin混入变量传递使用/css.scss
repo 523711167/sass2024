@@ -1,0 +1,9 @@
+@mixin warning-text($size, $color, $height) {
+  font-size: $size;
+  color: $color;
+  line-height: $height;
+}
+
+.container {
+  @include warning-text(10px, red, 200%)
+}

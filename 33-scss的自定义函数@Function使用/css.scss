@@ -1,0 +1,9 @@
+@function row-cols-width($column) {
+  @return percentage(1 / $column);
+}
+
+@for $i from 1 through 6 {
+  .row-cols-#{$i} > * {
+    width: row-cols-width($i);
+  }
+}
