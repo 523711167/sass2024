@@ -5,136 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7072f81-06ea-4c2c-933d-2fbebd7a5833" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/19d955d9507a7243257504e76c92300188e86890/css.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/3139c430a93c33d4e7ed427634e2cea50991d252/css.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/44d267fb50090898830a9003cf6b8859989a377a/css.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/506e74195bc2b874506088ec13372b6d3b82c9f1/css.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/80a3bdae3a44aaafaa6d1b53d053f52fe369b869/css.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/a72cd16341ab4c26971f8652d7d720ae65fc9934/_var.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/a72cd16341ab4c26971f8652d7d720ae65fc9934/css.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/a72cd16341ab4c26971f8652d7d720ae65fc9934/var.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/b2d1587c62757277fbf59d0341497a82c5080726/css.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/bfd04d5547bd9dc84de18c6049a1afc191c09c58/css.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/c1585dd4a6addcb5736c7372dcf7013ef3dce13b/css.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/c2bbbda0e00543c000af517977b0d8ce512b7a9f/css.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/d8c6a1baae117037291baec60db020e34d834a35/css.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/eaaeadd5d2a2efe57c46783cbbdb96af4cf00515/css.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-scss的结构嵌套语法使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-scss的结构嵌套语法使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-scss的结构嵌套语法使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-scss的&amp;符号的使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-scss的&amp;符号的使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-scss的&amp;符号的使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-scss占位符%选择器使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-scss占位符%选择器使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-scss占位符%选择器使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-scss的属性嵌套语法/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-scss的属性嵌套语法/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-scss的属性嵌套语法/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-scss的代码注释使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-scss的代码注释使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-scss的代码注释使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-scss的变量定义规则/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-scss的变量定义规则/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-scss的变量定义规则/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-scss的Map变量使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-scss的Map变量使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-scss的Map变量使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-scss的布尔变量使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-scss的布尔变量使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-scss的布尔变量使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-scss的import导入使用/_var.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-scss的import导入使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-scss的import导入使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-scss的import导入使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-scss的mixin混入基本使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-scss的mixin混入基本使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-scss的mixin混入基本使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-scss的mixin混入嵌套使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-scss的mixin混入嵌套使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-scss的mixin混入嵌套使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-scss的mixin混入变量传递使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-scss的mixin混入变量传递使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12-scss的mixin混入变量传递使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-scss的mixin混入...可变参数传递使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-scss的mixin混入...可变参数传递使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13-scss的mixin混入...可变参数传递使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-scss的@extend继承使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-scss的@extend继承使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-scss的@extend继承使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-scss的@extend多继承使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-scss的@extend多继承使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15-scss的@extend多继承使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-scss的@extend继承结合%使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-scss的@extend继承结合%使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-scss的@extend继承结合%使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-scss的等号操作符使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-scss的等号操作符使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-scss的等号操作符使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-scss的关系比较操作符使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-scss的关系比较操作符使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-scss的关系比较操作符使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-scss的%占位符号使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-scss的%占位符号使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-scss的%占位符号使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-scss的逻辑运算操作符使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-scss的逻辑运算操作符使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-scss的逻辑运算操作符使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-scss的数值运算操作符号使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-scss的数值运算操作符号使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-scss的数值运算操作符号使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-scss的字符串运算使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-scss的字符串运算使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-scss的字符串运算使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-scss的#{}语法属性使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-scss的#{}语法属性使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23-scss的#{}语法属性使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24-scss的#{}语法注释使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24-scss的#{}语法注释使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24-scss的#{}语法注释使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25-scss的#{}语法选择器使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25-scss的#{}语法选择器使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25-scss的#{}语法选择器使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26-scss的#{}语法属性名使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26-scss的#{}语法属性名使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26-scss的#{}语法属性名使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27-scss的内置函数使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27-scss的内置函数使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27-scss的内置函数使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28-scss的流程控制for使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28-scss的流程控制for使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28-scss的流程控制for使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29-scss的流程控制if使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29-scss的流程控制if使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29-scss的流程控制if使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30-scss的流程控制each使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30-scss的流程控制each使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30-scss的流程控制each使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31-scss的流程控制where使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31-scss的流程控制where使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31-scss的流程控制where使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32-scss的三元条件函数if使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32-scss的三元条件函数if使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32-scss的三元条件函数if使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33-scss的自定义函数@Function使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33-scss的自定义函数@Function使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33-scss的自定义函数@Function使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34-scss的@use使用/common/_common.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34-scss的@use使用/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34-scss的@use使用/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34-scss的@use使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34-scss的@use使用/css/about.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35-scss的@Import版本/common/_common.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35-scss的@Import版本/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35-scss的@Import版本/css.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35-scss的@Import版本/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35-scss的@Import版本/css/about.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36-scss的@forward使用/_all.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36-scss的@forward使用/commons/_css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36-scss的@forward使用/css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36-scss的@forward使用/global/_css.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-scss的&amp;符号的使用/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/02-scss的&amp;符号的使用/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-scss的&amp;符号的使用/css.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/02-scss的&amp;符号的使用/css.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-scss的&amp;符号的使用/css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/02-scss的&amp;符号的使用/css.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-scss的属性嵌套语法/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-scss的属性嵌套语法/css.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +24,12 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="NamedScopeManager">
+    <scope name="本地" pattern="file[sass2024]:01-scss的结构嵌套语法使用/*||file[sass2024]:01-scss的结构嵌套语法使用//*" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2UvOdsZzn1LnxgqyZugKJ2RPZcR" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -155,24 +38,27 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/pxx/code/pl/sass2024/36-scss的@forward使用/global",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/7/IdeaProjects/baseNote&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/36-scss的@forward使用/global" />
@@ -181,6 +67,14 @@
       <recent name="$PROJECT_DIR$/25-scss的#{}语法选择器使用" />
       <recent name="$PROJECT_DIR$/24-scss的#{}语法注释使用" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -191,6 +85,16 @@
       <option name="presentableId" value="Default" />
       <updated>1693816678223</updated>
       <workItem from="1693816679402" duration="21159000" />
+      <workItem from="1713166526192" duration="334000" />
+      <workItem from="1713166873813" duration="2375000" />
+      <workItem from="1713171204735" duration="6127000" />
+      <workItem from="1713235070918" duration="6238000" />
+      <workItem from="1716016325318" duration="4274000" />
+      <workItem from="1716023123982" duration="617000" />
+      <workItem from="1716208680461" duration="1258000" />
+      <workItem from="1716214158159" duration="21000" />
+      <workItem from="1716911827658" duration="636000" />
+      <workItem from="1716948441559" duration="1186000" />
     </task>
     <servers />
   </component>
